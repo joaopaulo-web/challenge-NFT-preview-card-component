@@ -18,7 +18,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 ### Links
 
 - Solution URL: [https://github.com/joaopaulo-web/challenge-product-preview/blob/main/index2.html]
-- Live Site URL: [https://joaopaulo-web.github.io/challenge-product-preview/]
+- Live Site URL: [https://joaopaulo-web.github.io/challenge-NFT-preview-card-component/]
 
 ### Built with
 
